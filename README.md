@@ -17,9 +17,8 @@ The app uses Express.js for routing.  The budget database is stored using MongoD
 This project is covered by the MIT License license
 
 ## Questions?<a id='questions'></a>
-Contact me at [GitHub](https://github.com/noreikam) or by email at <noreikam1@gmail.com>.<br>
-[Repository](https://github.com/noreikam/budget-tracker)<br>
-[Deployed on Heroku](https://noreikam-budget-tracker.herokuapp.com/)
+Contact me at [GitHub](https://github.com/KennethHollis) or by email at <Kenneth.Dre.Hollis212@gmail.com>.<br>
+[Repository](https://github.com/KennethHollis/Budget-Tracker)<br>
 
 ![Screenshot](/public/images/budget-tracker.png)
 
